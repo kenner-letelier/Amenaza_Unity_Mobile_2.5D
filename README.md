@@ -9,7 +9,6 @@ Un arcade clásico tipo "Shoot 'em up" (Shmup) desarrollado con assets 3D sobre 
 ### 📱 Gameplay
 
 ![alt text](Media/navegif1.gif)
-![alt text](Media/nave_gif2.gif)
 
 ### 🚀 Aspectos Técnicos (Mobile Optimization)
 El reto principal de este proyecto fue mantener un rendimiento estable en móvil con múltiples objetos en pantalla:
