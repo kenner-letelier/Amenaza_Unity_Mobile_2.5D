@@ -8,9 +8,6 @@ Un arcade clásico tipo "Shoot 'em up" (Shmup) desarrollado con assets 3D sobre 
 
 ### 📱 Gameplay
 
-![alt text](Media/navegif1.gif)
-
-
 https://github.com/user-attachments/assets/9d4ff056-4c25-4960-bd00-4efcd7e97513
 
 
@@ -30,3 +27,4 @@ El reto principal de este proyecto fue mantener un rendimiento estable en móvil
 
 Puedes probar el juego en tu dispositivo Android descargando el APK aquí: 
 https://github.com/kenner-letelier/Amenaza_Unity_Mobile_2.5D/releases/tag/v1.0
+
